@@ -1,0 +1,9 @@
+[
+{
+	"Name" : "Some game",
+	"ImagePath" : "Images/game_logo.png",
+	"PathSource" : "SaveStudio/GameSaves",
+	"AppData" : "local",
+	"PathTarget" : "SomeGameSaveFolder"
+}
+]
